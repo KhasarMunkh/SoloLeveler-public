@@ -1,0 +1,7 @@
+curl -X POST http://localhost:3000/quests \
+  -H "Content-Type: application/json" \
+  -d '{"title":"Mew","durationMin":60,"mustDo":true}'
+
+curl http://localhost:3000/quests
+
+curl http://localhost:3000/quests/wakie-wakie

@@ -1,0 +1,32 @@
+# deps
+node_modules/
+
+# builds
+dist/
+build/
+out/
+coverage/
+
+# env / secrets
+**/.env
+**/.env.*
+frontend/.env
+frontend/.env.*
+backend/.env
+.env
+.env.*
+*.key
+*.secret
+
+# Expo / RN
+.expo/
+web-build/
+
+# editor / os
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
