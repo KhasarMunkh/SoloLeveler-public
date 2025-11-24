@@ -139,3 +139,17 @@ frontend/
 - **DayTimeline** - Visual timeline showing tasks by hour
 - **TaskEditorSheet** - Bottom sheet for creating/editing tasks
 - **TaskPill** - Individual task display with completion toggle
+
+### Planned Features
+
+**Gamification System**
+- [ ] XP rewards for completing quests
+- [ ] User levels and progression
+- [ ] Daily streaks tracking
+- [ ] Quest categories (fitness, school, work, habits)
+- [ ] User stats dashboard (`/me/stats` endpoint)
+
+**Smart Scheduling**
+- [ ] ML-powered schedule generation
+- [ ] Weekly goal setting interface
+- [ ] Auto-populate timeline based on goals and availability
